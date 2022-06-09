@@ -257,8 +257,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-url: Josephpaik.github.io
-baseurl: /beautiful-jekyll
+url: "http://josephpaik.github.io/beautiful-jekyll"
+baseurl: "/beautiful-jekyll"
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
